@@ -1,6 +1,6 @@
 # Pantau Corona Virus 19 (Covid 19)
 
-![Splash Page](assets/screenshots/splashpage.jpg) ![Home Page](assets/screenshots/homepage.jpg) ![Hotline Page](assets/screenshots/hotlinepage.jpg)
+<img src="assets/screenshots/splashpage.jpg" width="350"/> <img src="assets/screenshots/homepage.jpg" width="350"/> <img src="assets/screenshots/hotlinepage.jpg" width="350"/> 
 
 ## REST API
 REST API yang digunakan berasal dari [kawalcorona.com](https://kawalcorona.com/).
